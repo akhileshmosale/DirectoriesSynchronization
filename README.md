@@ -17,6 +17,8 @@ In ServerA directory run the server.py file, after this we can see that the dire
 
 ![alt text](https://github.com/akhileshmosale/DirectoriesSynchronization/blob/main/img/1.png)
 
+During this time any changes made to the files of either directories are applied to both the directories
+
 The client can request the list of files present at the server directory. The client can do so by running python3 client.py in ServerA's terminal
 
 ![alt text](https://github.com/akhileshmosale/DirectoriesSynchronization/blob/main/img/2.png)
